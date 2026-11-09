@@ -1,0 +1,28 @@
+{
+  "inventory": [
+    {
+      "MaterialTitle": {
+        "Name": "100V,100A N-Channel Enhancement Power Mosfet",
+        "PN": "APG082N01",
+        "MF": "ALL POWER (ShenZhen Quan Li Semiconductor)"
+      },
+      "MID": "MID20365",
+      "MD": "\r\n⚫100V,100A\r\n⚫ RDS（ON）<8.2mΩ＠VGS=10V (TYP:6.7mΩ)\r\n⚫ Split Gate Trench Technology\r\n⚫ Lead free product is acquired\r\n⚫ Excellent R DS（ON） and Low Gate Charge",
+      "MT": "Electronic Material",
+      "MQNT": 20,
+      "MCost": 94.0,
+      "MQATG": "#CLASS_0",
+      "ML": "110",
+      "MDS": "https://docs.google.com/viewerng/viewer?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylab2025%2FMID20365%2Fmain%2FAPG082N01.pdf",
+      "MAF1": "",
+      "MAF2": "",
+      "MAF3": "",
+      "MAF4": "",
+      "MAF5": "",
+      "MR": "",
+      "MaterialImages": [
+        "https://raw.githubusercontent.com/mylab2025/MID20365/main/IMG_20261109_115135.jpg"
+      ]
+    }
+  ]
+}
